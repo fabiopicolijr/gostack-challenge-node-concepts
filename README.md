@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a target="_blank" href="https://rocketseat.com.br/gostack">
+  <a href="https://rocketseat.com.br/gostack" target="_blank">
     <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/desafio-conceitos-node/blob/master/src/assets/go-stack.jpg" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <h3>Resolution of the node concepts challenge :rocket:</h3>
+  <h3>Solving the Rocketseat bootcamp Node.js challenge :rocket:</h3>
 </p>
 
 ---
@@ -41,4 +41,4 @@ It's important to mention that the url from the [app.js](https://github.com/fabi
 
 ---
 
-Developed :sparkles: by @fabiopicolijr :point_right: <a target="_blank" href="http://www.linkedin.com/in/fabiopicolijr">See my linkedin</a>.
+Developed :sparkles: by @fabiopicolijr :point_right: <a href="https://www.linkedin.com/in/fabiopicolijr" target="_blank">See my linkedin</a>.
