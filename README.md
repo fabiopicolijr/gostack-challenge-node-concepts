@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br/gostack">
-    <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/desafio-conceitos-node/tree/master/src/assets/go-stack.jpg" />
+    <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/desafio-conceitos-node/blob/master/src/assets/go-stack.jpg" />
   </a>
 </p>
 
@@ -11,10 +11,10 @@
 
   <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/desafio-conceitos-node?color=282A36" />
 
-  <img src="https://img.shields.io/github/languages/top/fabiopicolijr/desafio-conceitos-node?color=282A36" />
+  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/desafio-conceitos-node?color=282A36" />
 
   <a href="https://github.com/fabiopicolijr">
-    <img src="https://img.shields.io/badge/made%20by-fabiopicolijr-917ECE" alt="Made by fabiopicolijr">
+    <img alt="Made By fabiopicolijr" title="Made By fabiopicolijr" src="https://img.shields.io/badge/made%20by-fabiopicolijr-917ECE" alt="Made by fabiopicolijr">
   </a>
   
 </p>
@@ -39,7 +39,7 @@
   react-native run-android 
 ```
 
-It's important to mention that the url from the [app.js](https://github.com/LauraBeatris/gostack-react-native-concepts/blob/master/src/services/api.js) file will change depending of the way that you're running your app with a emulator. 
+It's important to mention that the url from the [app.js](https://github.com/fabiopicolijr/desafio-conceitos-node/blob/master/src/app.js) file will change depending of the way that you're running your app with a emulator. 
 
 ---
 
