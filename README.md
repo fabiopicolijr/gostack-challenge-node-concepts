@@ -26,11 +26,9 @@
   # Run test suits 
   yarn test 
   
-  # Start application with a Android Emulator 
-  react-native run-android 
+  # Start application
+  yarn dev
 ```
-
-It's important to mention that the url from the [app.js](https://github.com/fabiopicolijr/desafio-conceitos-node/blob/master/src/app.js) file will change depending of the way that you're running your app with a emulator. 
 <br />
 <br />
 
